@@ -9,7 +9,7 @@ Demonstrated advanced proficiency in C++, STL algorithms, and object-oriented de
 ## Key Achievements
 - **Utilities and Station Modules:** Implemented modules to parse configuration files and manage individual workstation data, integrating robust string manipulation techniques to maintain system integrity and optimize data processing.
 - **CustomerOrder Module:** Designed and developed a critical component handling dynamic allocation of customer orders, significantly enhancing the system's capability to manage varying order sizes and complexities without memory leaks or faults.
-- **LineManager Module:** Orchestrated the complete assembly line using custom STL algorithms and lambda functions, enabling efficient order processing through interconnected workstations without manual iteration loops.
+- **LineManager Module:** Orchestrated the complete assembly line using STL algorithms and lambda functions, enabling efficient order processing through interconnected workstations without manual iteration loops.
 
 ## Problem Solving and Innovation
 - Engineered a solution to dynamically link stations based on external configuration, reducing hardcoded dependencies and enhancing the system’s flexibility and scalability.
