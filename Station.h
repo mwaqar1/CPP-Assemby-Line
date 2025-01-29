@@ -16,7 +16,7 @@ public:
   void display(std::ostream &, bool) const;
 
 private:
-  ssize_t m_id;
+  size_t m_id;
   std::string m_itemName;
   std::string m_description;
   size_t m_serialNo;
